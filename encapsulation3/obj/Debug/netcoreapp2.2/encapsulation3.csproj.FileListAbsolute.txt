@@ -1,0 +1,11 @@
+/Users/owner1/Documents/docs/careerdevs/20-09september/encapsulation3/encapsulation3/bin/Debug/netcoreapp2.2/encapsulation3.deps.json
+/Users/owner1/Documents/docs/careerdevs/20-09september/encapsulation3/encapsulation3/bin/Debug/netcoreapp2.2/encapsulation3.runtimeconfig.json
+/Users/owner1/Documents/docs/careerdevs/20-09september/encapsulation3/encapsulation3/bin/Debug/netcoreapp2.2/encapsulation3.runtimeconfig.dev.json
+/Users/owner1/Documents/docs/careerdevs/20-09september/encapsulation3/encapsulation3/bin/Debug/netcoreapp2.2/encapsulation3.dll
+/Users/owner1/Documents/docs/careerdevs/20-09september/encapsulation3/encapsulation3/bin/Debug/netcoreapp2.2/encapsulation3.pdb
+/Users/owner1/Documents/docs/careerdevs/20-09september/encapsulation3/encapsulation3/obj/Debug/netcoreapp2.2/encapsulation3.csprojAssemblyReference.cache
+/Users/owner1/Documents/docs/careerdevs/20-09september/encapsulation3/encapsulation3/obj/Debug/netcoreapp2.2/encapsulation3.csproj.CoreCompileInputs.cache
+/Users/owner1/Documents/docs/careerdevs/20-09september/encapsulation3/encapsulation3/obj/Debug/netcoreapp2.2/encapsulation3.AssemblyInfoInputs.cache
+/Users/owner1/Documents/docs/careerdevs/20-09september/encapsulation3/encapsulation3/obj/Debug/netcoreapp2.2/encapsulation3.AssemblyInfo.cs
+/Users/owner1/Documents/docs/careerdevs/20-09september/encapsulation3/encapsulation3/obj/Debug/netcoreapp2.2/encapsulation3.dll
+/Users/owner1/Documents/docs/careerdevs/20-09september/encapsulation3/encapsulation3/obj/Debug/netcoreapp2.2/encapsulation3.pdb
